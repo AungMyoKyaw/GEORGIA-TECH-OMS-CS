@@ -14,6 +14,7 @@
 - [ ] [ CS-6263 Intro to Cyber Physical Systems Security (formerly CS 8803 O07) ][cs-6263]
 - [ ] [ CS-6290 High Performance Computer Architecture ][cs-6290]
 - [ ] [ CS-6291 Embedded Systems Optimization ][cs-6291]
+- [ ] [ CSE-6250 Special Topics: Big Data for Health Informatics ][cse-6250]
 - [ ] [ CS-6300 Software Development Process ][cs-6300]
 - [ ] [ CS-6310 Software Architecture and Design ][cs-6310]
 - [ ] [ CS-6340 Software Analysis and Test ][cs-6340]
@@ -32,7 +33,6 @@
 - [ ] [ CS-8803 Cyber-Physical Design and Analysis ][cs-8803]
 - [ ] [ CS-8803-O01 Artificial Intelligence for Robotics ][cs-8803-o01]
 - [ ] [ CS-8803-O08 Compilers - Theory and Practice ][cs-8803-o08]
-- [ ] [ CSE-6250 Special Topics: Big Data for Health Informatics ][cse-6250]
 
 ## How to use it
 
