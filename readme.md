@@ -15,7 +15,7 @@
 - [ ] [ CS-6290 High Performance Computer Architecture ][cs-6290]
 - [ ] [ CS-6291 Embedded Systems Optimization ][cs-6291]
 - [ ] [ CSE-6250 Special Topics: Big Data for Health Informatics ][cse-6250]
-- [ ] [ CS-6300 Software Development Process ][cs-6300]
+- [x] [ CS-6300 Software Development Process ][cs-6300]
 - [ ] [ CS-6310 Software Architecture and Design ][cs-6310]
 - [ ] [ CS-6340 Software Analysis and Test ][cs-6340]
 - [ ] [ CS-6400 Database Systems Concepts and Design ][cs-6400]
